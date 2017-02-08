@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1b5b750b-7582-4fb0-a491-dadf5fb75806" name="默认" comment="" />
     <ignored path="aa_demo.iws" />
+=======
+    <list default="true" id="d4a1afe7-72aa-4679-8688-38aa372279d6" name="默认" comment="" />
+    <ignored path="tt_demo.iws" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +24,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
+<<<<<<< HEAD
     <favorites_list name="aa_demo" />
   </component>
   <component name="FileEditorManager">
@@ -37,6 +43,13 @@
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+=======
+    <favorites_list name="tt_demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -52,7 +65,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.ios.js" />
+=======
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
       </list>
     </option>
   </component>
@@ -68,8 +84,13 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="100" />
     <option name="y" value="111" />
+=======
+    <option name="x" value="109" />
+    <option name="y" value="90" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
     <option name="width" value="1518" />
     <option name="height" value="789" />
   </component>
@@ -104,35 +125,58 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="aa_demo" />
+=======
+              <option name="myItemId" value="tt_demo" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="aa_demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="aa_demo" />
+=======
+              <option name="myItemId" value="tt_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tt_demo" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+<<<<<<< HEAD
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+=======
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RunManager">
@@ -189,16 +233,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="1b5b750b-7582-4fb0-a491-dadf5fb75806" name="默认" comment="" />
       <created>1486561431114</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486561431114</updated>
       <workItem from="1486561432492" duration="765000" />
+=======
+      <changelist id="d4a1afe7-72aa-4679-8688-38aa372279d6" name="默认" comment="" />
+      <created>1486559263038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486559263038</updated>
+      <workItem from="1486559264538" duration="95000" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="765000" />
   </component>
   <component name="ToolWindowManager">
@@ -206,6 +260,15 @@
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <option name="totallyTimeSpent" value="95000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="109" y="90" width="1518" height="789" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.249833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -248,6 +311,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -259,5 +323,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 17506b9b97557e5694b2f513cb8e4c6222cf32fa
   </component>
 </project>

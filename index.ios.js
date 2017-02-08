@@ -13,7 +13,10 @@ import {
     TabBarIOS
 } from 'react-native';
 
+
 var tt = "是第一次吗";
+
+
 
 var CTabBarDemo = React.createClass({
     getInitialState:function () {
