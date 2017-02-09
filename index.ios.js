@@ -14,8 +14,11 @@ import {
 } from 'react-native';
 
 
+
 var tt = "是第二次吗";
 var dd = "是第几次"
+
+
 
 
 
